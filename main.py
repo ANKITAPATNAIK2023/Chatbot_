@@ -62,4 +62,4 @@ def get_response(user_input):
 
 # Testing the response system
 while True:
-    print('Bot: ' + get_response(input('You: ')))
+    print('Robot: ' + get_response(input('You: ')))
